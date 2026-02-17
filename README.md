@@ -91,4 +91,4 @@ Dataset de evaluaciones consistente y correctamente vinculado con empleados para
 # Resultado final
 Se obtuvieron tres datasets limpios y relacionados que permitieron construir un modelo analítico confiable en Power BI para análisis comercial y de RRHH.
 
-**Herramientas:** Python (pandas), Excel, Power BI
+**Herramientas:** Python (pandas), Jupiter Notebook, Excel, Power BI
