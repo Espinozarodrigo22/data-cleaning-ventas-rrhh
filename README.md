@@ -4,9 +4,9 @@
 Se realizó el proceso de limpieza, estandarización y validación de tres datasets empresariales (Ventas, Empleados y Evaluaciones) con el objetivo de obtener datos consistentes y confiables para análisis en Power BI.
 
 **Datos originales**
-- ventas.xlsx  
-- empleados.xlsx  
-- evaluaciones.csv  
+- ventas_empresa_dirty.csv 
+- empleados_empresa_dirty.xlsx  
+- evaluaciones_dirty.csv  
 
 **Datos finales**
 - ventas_limpio.csv  
