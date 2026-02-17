@@ -1,0 +1,150 @@
+id_venta,producto,categoria,precio,cantidad,cliente
+1,notebook,tecnologia,1300.0,1,empresa a
+2,notebook,tecnologia,1100.0,2,empresa a
+3,notebook,tecnologia,1100.0,5,cliente b
+4,monitor,accesorios,800.0,2,cliente b
+5,notebook,tecnologia,1250.0,2,cliente b
+6,notebook,tecnologia,1250.0,2,cliente b
+7,notebook,tecnologia,1100.0,3,empresa a
+8,mouse,accesorios,25.0,2,cliente c
+9,notebook,tecnologia,1300.0,2,cliente b
+10,notebook,tecnologia,1250.0,1,cliente b
+11,notebook,tecnologia,1100.0,2,cliente c
+12,monitor,accesorios,800.0,2,cliente b
+13,notebook,tecnologia,1100.0,2,cliente_no_informado
+14,notebook,tecnologia,1300.0,1,empresa d
+15,monitor,accesorios,800.0,2,empresa a
+16,mouse,accesorios,25.0,1,cliente b
+17,notebook,tecnologia,1300.0,2,empresa a
+18,mouse,accesorios,25.0,2,empresa a
+19,notebook,tecnologia,1100.0,1,cliente b
+20,notebook,tecnologia,1300.0,2,cliente_no_informado
+21,mouse,accesorios,25.0,1,cliente b
+22,mouse,accesorios,25.0,5,empresa a
+23,mouse,accesorios,25.0,2,cliente b
+24,notebook,tecnologia,1250.0,1,cliente c
+25,mouse,accesorios,25.0,2,cliente_no_informado
+26,notebook,tecnologia,1250.0,1,empresa d
+27,notebook,tecnologia,1250.0,1,empresa d
+28,notebook,tecnologia,1100.0,2,cliente_no_informado
+29,notebook,tecnologia,1250.0,5,empresa a
+30,notebook,tecnologia,1300.0,5,cliente_no_informado
+31,teclado,accesorios,45.0,1,empresa d
+32,mouse,accesorios,25.0,1,cliente_no_informado
+33,mouse,accesorios,25.0,1,cliente c
+34,notebook,tecnologia,1300.0,1,empresa a
+35,notebook,tecnologia,1250.0,2,cliente b
+36,monitor,accesorios,800.0,2,cliente c
+37,mouse,accesorios,25.0,1,empresa a
+38,notebook,tecnologia,1100.0,2,cliente b
+39,monitor,accesorios,800.0,2,cliente_no_informado
+39,mouse,accesorios,25.0,3,empresa a
+41,monitor,accesorios,800.0,3,cliente b
+42,teclado,accesorios,45.0,3,empresa a
+43,notebook,tecnologia,1250.0,2,cliente b
+44,notebook,tecnologia,1200.0,1,empresa a
+45,teclado,accesorios,45.0,2,empresa a
+46,notebook,tecnologia,1100.0,1,empresa a
+47,notebook,tecnologia,1300.0,2,empresa d
+48,notebook,tecnologia,1100.0,3,empresa a
+49,notebook,tecnologia,1100.0,5,cliente c
+50,notebook,tecnologia,1100.0,5,cliente c
+51,mouse,accesorios,25.0,5,cliente c
+52,monitor,accesorios,800.0,1,empresa a
+53,mouse,accesorios,25.0,1,empresa d
+54,mouse,accesorios,25.0,2,cliente b
+55,teclado,accesorios,45.0,1,empresa a
+56,teclado,accesorios,45.0,1,cliente b
+57,notebook,tecnologia,1300.0,2,cliente b
+58,notebook,tecnologia,1100.0,5,cliente c
+59,teclado,accesorios,45.0,1,empresa a
+60,notebook,tecnologia,1100.0,1,cliente b
+61,notebook,tecnologia,1100.0,5,empresa a
+62,teclado,accesorios,45.0,5,empresa d
+63,teclado,accesorios,45.0,2,empresa a
+64,notebook,tecnologia,1300.0,5,cliente c
+65,mouse,accesorios,25.0,5,empresa a
+66,teclado,accesorios,45.0,1,cliente b
+67,monitor,accesorios,800.0,3,cliente c
+68,notebook,tecnologia,1300.0,1,cliente b
+69,teclado,accesorios,45.0,1,cliente b
+70,teclado,accesorios,45.0,5,empresa a
+71,mouse,accesorios,25.0,2,cliente b
+72,teclado,accesorios,45.0,3,empresa d
+73,teclado,accesorios,45.0,2,empresa a
+74,notebook,tecnologia,1200.0,3,empresa d
+75,monitor,accesorios,800.0,5,cliente b
+76,notebook,tecnologia,1250.0,2,empresa a
+77,notebook,tecnologia,1300.0,2,empresa a
+78,monitor,accesorios,800.0,3,empresa a
+79,notebook,tecnologia,1200.0,3,empresa d
+79,monitor,accesorios,800.0,1,empresa a
+81,mouse,accesorios,25.0,1,cliente c
+82,notebook,tecnologia,1250.0,1,cliente_no_informado
+83,monitor,accesorios,800.0,2,cliente_no_informado
+84,notebook,tecnologia,1100.0,1,cliente b
+85,notebook,tecnologia,1200.0,5,cliente c
+86,monitor,accesorios,800.0,2,cliente b
+87,teclado,accesorios,45.0,5,cliente b
+88,notebook,tecnologia,1250.0,3,cliente b
+89,mouse,accesorios,25.0,2,cliente c
+90,teclado,accesorios,45.0,3,cliente b
+91,notebook,tecnologia,1250.0,1,empresa a
+92,mouse,accesorios,25.0,2,cliente b
+93,notebook,tecnologia,1300.0,3,empresa a
+94,notebook,tecnologia,1300.0,1,cliente_no_informado
+95,teclado,accesorios,45.0,5,cliente c
+96,teclado,accesorios,45.0,5,empresa a
+97,notebook,tecnologia,1100.0,1,empresa d
+98,monitor,accesorios,800.0,2,empresa d
+99,notebook,tecnologia,1100.0,3,empresa a
+100,notebook,tecnologia,1200.0,5,cliente_no_informado
+101,monitor,accesorios,800.0,1,cliente_no_informado
+102,notebook,tecnologia,1250.0,2,cliente b
+103,notebook,tecnologia,1300.0,3,cliente b
+104,teclado,accesorios,45.0,3,cliente_no_informado
+105,teclado,accesorios,45.0,2,cliente b
+106,monitor,accesorios,800.0,2,empresa a
+107,notebook,tecnologia,1300.0,2,empresa d
+108,teclado,accesorios,45.0,1,empresa a
+109,teclado,accesorios,45.0,2,empresa a
+110,teclado,accesorios,45.0,2,empresa a
+111,teclado,accesorios,45.0,1,cliente_no_informado
+112,teclado,accesorios,45.0,1,cliente_no_informado
+113,notebook,tecnologia,1300.0,3,empresa a
+114,notebook,tecnologia,1300.0,5,cliente b
+115,teclado,accesorios,45.0,2,empresa a
+116,notebook,tecnologia,1300.0,1,cliente b
+117,monitor,accesorios,800.0,1,cliente b
+118,no_informado,accesorios,,3,empresa d
+119,teclado,accesorios,45.0,2,empresa d
+120,notebook,tecnologia,1300.0,5,empresa a
+121,notebook,tecnologia,1250.0,2,cliente_no_informado
+122,teclado,accesorios,45.0,3,cliente c
+124,notebook,tecnologia,1250.0,5,empresa a
+125,notebook,tecnologia,1200.0,3,empresa a
+126,mouse,accesorios,25.0,5,empresa a
+127,notebook,tecnologia,1100.0,5,empresa a
+128,notebook,tecnologia,1200.0,5,cliente b
+129,teclado,accesorios,45.0,1,cliente b
+130,notebook,tecnologia,1250.0,2,empresa d
+131,teclado,accesorios,45.0,3,empresa a
+132,notebook,tecnologia,1100.0,2,cliente c
+133,notebook,tecnologia,1300.0,1,empresa a
+134,notebook,tecnologia,1250.0,1,empresa a
+135,notebook,tecnologia,1100.0,2,cliente c
+136,monitor,accesorios,800.0,1,cliente_no_informado
+137,teclado,accesorios,45.0,1,empresa d
+138,monitor,accesorios,800.0,2,empresa d
+139,mouse,accesorios,25.0,3,cliente b
+140,teclado,accesorios,45.0,1,empresa a
+141,notebook,tecnologia,1100.0,2,empresa a
+142,notebook,tecnologia,1300.0,5,empresa a
+143,notebook,tecnologia,1250.0,2,cliente_no_informado
+144,notebook,tecnologia,1250.0,2,cliente c
+145,notebook,tecnologia,1250.0,1,cliente b
+146,notebook,tecnologia,1100.0,1,cliente b
+147,notebook,tecnologia,1200.0,3,empresa a
+148,notebook,tecnologia,1200.0,2,empresa a
+149,notebook,tecnologia,1300.0,3,empresa a
+150,notebook,tecnologia,1250.0,5,cliente_no_informado

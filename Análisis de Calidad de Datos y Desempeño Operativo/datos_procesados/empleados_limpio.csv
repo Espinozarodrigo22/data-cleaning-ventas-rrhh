@@ -1,0 +1,10 @@
+id_empleado,nombre,edad,sexo,departamento,salario,fecha_ingreso,antiguedad en anios
+103,juan perez,25,m,ventas,130000.0,2020-10-31,5
+133,maria lopez,28,f,it,200000.0,2018-04-21,7
+152,lucia fernandez,28,f,ventas,120000.0,2022-04-29,3
+169,lucia fernandez,45,f,recursos humanos,180000.0,2020-04-11,5
+185,ana gomez,25,f,it,200000.0,2018-01-13,8
+214,lucia fernandez,45,f,ventas,120000.0,2019-08-22,6
+227,ana gomez,30,f,recursos humanos,180000.0,2018-01-13,8
+231,maria lopez,45,f,it,200000.0,2022-07-26,3
+248,ana gomez,45,f,ventas,130000.0,2018-01-13,8

@@ -1,0 +1,151 @@
+id_venta,fecha_venta,producto,categoria,precio,cantidad,cliente
+1,09/07/2023,Mouse,tecnología,1300,,empresa a
+2,2023-06-01,Notebook,Tecnologia,1100,2,Empresa A
+3,,,Accesorios,1100,5,Cliente B 
+4,2023-07-14,TECLADO,TECNOLOGIA,800,2,Cliente B
+5,24/01/2023,notebook ,TECNOLOGIA,,2,Cliente B 
+6,,notebook ,Accesorios,1250usd,2,Cliente B 
+7,,notebook ,Tecnologia,1100,3,empresa a
+8,26/01/2023,mouse,Accesorios,,2,cliente c
+9,21/06/2023,notebook ,accesorios,1300,2,Cliente B
+10,08/04/2023,,tecnología,,1,Cliente B
+11,22/03/2023,mouse,Tecnologia,1100,2,cliente c
+12,08/05/2023,Monitor,tecnología,800,2,Cliente B
+13,30/05/2023,TECLADO,TECNOLOGIA,1100,2,
+14,2023-07-13,NOTEBOOK,,1300,,Empresa D
+15,,Monitor,accesorios,800,2,Empresa A
+16,,mouse,,,1,Cliente B 
+17,2023-02-10,mouse,accesorios,1300,2,empresa a
+18,,Mouse,tecnología,,2,Empresa A
+19,2023-05-06,Teclado,TECNOLOGIA,1100,1,Cliente B
+20,07/07/2023,notebook ,accesorios,1300,2,
+21,,TECLADO,tecnología,25,,Cliente B
+22,,Teclado,Accesorios,25,5,empresa a
+23,17/01/2023,Notebook,accesorios,25,2,Cliente B
+24,,Notebook,tecnología,1250usd,1,cliente c
+25,02/03/2023,Monitor,tecnología,25,2,
+26,02/05/2023,Mouse,Tecnologia,1250usd,,Empresa D
+27,16/04/2023,Notebook,,1250usd,1,Empresa D
+28,2023-07-24,Mouse,tecnología,1100,2,
+29,16/02/2023,Monitor,tecnología,1250usd,5,empresa a
+30,2023-06-16,notebook ,tecnología,1300,5,
+31,10/08/2023,Notebook,tecnología,45,1,Empresa D
+32,20/07/2023,mouse,Accesorios,25,,
+33,2023-02-18,Notebook,accesorios,25,1,cliente c
+34,30/05/2023,,accesorios,1300,1,empresa a
+35,2023-01-18,Mouse,Accesorios,1250usd,2,Cliente B
+36,21/01/2023,,TECNOLOGIA,800,2,cliente c
+37,2023-03-09,mouse,Accesorios,,1,Empresa A
+38,2023-06-09,notebook ,accesorios,1100,2,Cliente B 
+39,2023-08-27,Mouse,TECNOLOGIA,800,2,
+39,,,Tecnologia,25,3,empresa a
+41,2023-03-09,,tecnología,800,3,Cliente B
+42,,mouse,accesorios,45,3,Empresa A
+43,19/04/2023,Notebook,Tecnologia,,2,Cliente B 
+44,,TECLADO,accesorios,1200,1,empresa a
+45,10/01/2023,,tecnología,45,2,Empresa A
+46,2023-04-04,Teclado,tecnología,1100,,empresa a
+47,24/05/2023,NOTEBOOK,tecnología,1300,2,Empresa D
+48,08/07/2023,TECLADO,,1100,3,EMPRESA A
+49,2023-04-08,Monitor,tecnología,1100,5,cliente c
+50,2023-07-30,Mouse,Tecnologia,1100,5,cliente c
+51,18/01/2023,Teclado,,25,5,cliente c
+52,13/08/2023,NOTEBOOK,accesorios,800,1,empresa a
+53,06/07/2023,TECLADO,accesorios,25,1,Empresa D
+54,,TECLADO,Tecnologia,25,2,Cliente B
+55,,Teclado,accesorios,,,empresa a
+56,,TECLADO,TECNOLOGIA,45,,Cliente B 
+57,,TECLADO,,1300,2,Cliente B 
+58,2023-05-21,mouse,TECNOLOGIA,1100,5,cliente c
+59,,Mouse,accesorios,45,,EMPRESA A
+60,,Teclado,Tecnologia,1100,,Cliente B 
+61,2023-07-26,Notebook,Tecnologia,1100,5,empresa a
+62,,Mouse,,45,5,Empresa D
+63,,Notebook,Tecnologia,45,2,EMPRESA A
+64,2023-01-13,notebook ,Accesorios,1300,5,cliente c
+65,,,Accesorios,25,5,EMPRESA A
+66,2023-04-26,mouse,accesorios,45,,Cliente B
+67,,mouse,tecnología,800,3,cliente c
+68,2023-02-05,TECLADO,,1300,,Cliente B
+69,15/04/2023,,Accesorios,45,1,Cliente B
+70,,Notebook,accesorios,45,5,Empresa A
+71,12/07/2023,TECLADO,accesorios,25,2,Cliente B
+72,11/03/2023,Monitor,Tecnologia,45,3,Empresa D
+73,2023-08-04,,Tecnologia,45,2,Empresa A
+74,2023-06-14,Monitor,tecnología,1200,3,Empresa D
+75,27/04/2023,Teclado,Accesorios,800,5,Cliente B 
+76,,,Tecnologia,,2,empresa a
+77,2023-07-13,Mouse,Tecnologia,1300,2,EMPRESA A
+78,,Mouse,Accesorios,800,3,EMPRESA A
+79,2023-07-19,mouse,Tecnologia,1200,3,Empresa D
+79,2023-07-03,Mouse,Tecnologia,800,,empresa a
+81,17/05/2023,Teclado,Tecnologia,25,,cliente c
+82,18/04/2023,notebook ,Accesorios,,,
+83,,,,800,2,
+84,,mouse,TECNOLOGIA,1100,1,Cliente B 
+85,12/07/2023,TECLADO,TECNOLOGIA,1200,5,cliente c
+86,24/02/2023,mouse,TECNOLOGIA,800,2,Cliente B 
+87,2023-05-13,Mouse,,45,5,Cliente B
+88,02/07/2023,Monitor,Tecnologia,1250usd,3,Cliente B
+89,04/03/2023,Teclado,Accesorios,25,2,cliente c
+90,21/05/2023,Teclado,,45,3,Cliente B 
+91,,Mouse,TECNOLOGIA,1250usd,,EMPRESA A
+92,09/07/2023,mouse,,25,2,Cliente B 
+93,19/02/2023,Mouse,TECNOLOGIA,1300,3,Empresa A
+94,2023-03-12,,TECNOLOGIA,1300,,
+95,,mouse,Accesorios,45,5,cliente c
+96,06/03/2023,notebook ,Tecnologia,45,5,empresa a
+97,,mouse,Tecnologia,1100,1,Empresa D
+98,14/05/2023,Monitor,Accesorios,800,2,Empresa D
+99,2023-05-26,notebook ,tecnología,1100,3,empresa a
+100,,notebook ,tecnología,1200,5,
+101,2023-03-16,mouse,,800,,
+102,01/03/2023,Mouse,Accesorios,1250usd,2,Cliente B
+103,2023-08-21,notebook ,Tecnologia,1300,3,Cliente B 
+104,,mouse,,45,3,
+105,2023-01-21,TECLADO,,,2,Cliente B 
+106,,Notebook,,800,2,Empresa A
+107,,Monitor,TECNOLOGIA,1300,2,Empresa D
+108,01/05/2023,TECLADO,TECNOLOGIA,,,empresa a
+109,,Monitor,TECNOLOGIA,45,2,Empresa A
+110,22/03/2023,Teclado,Tecnologia,45,2,Empresa A
+111,2023-04-16,,TECNOLOGIA,45,,
+112,,NOTEBOOK,TECNOLOGIA,45,,
+113,,Mouse,,1300,3,Empresa A
+114,2023-01-24,Monitor,Tecnologia,1300,5,Cliente B 
+115,02/08/2023,Monitor,tecnología,45,2,EMPRESA A
+116,,,,1300,1,Cliente B 
+117,,mouse,Tecnologia,800,,Cliente B 
+118,08/02/2023,,Accesorios,,3,Empresa D
+119,2023-08-27,Mouse,accesorios,45,2,Empresa D
+120,10/07/2023,TECLADO,Accesorios,1300,5,Empresa A
+121,01/06/2023,notebook ,Accesorios,1250usd,2,
+122,06/02/2023,NOTEBOOK,Tecnologia,45,3,cliente c
+123,21/01/2023,,Accesorios,,,
+124,2023-06-08,mouse,tecnología,1250usd,5,empresa a
+125,,mouse,Tecnologia,1200,3,Empresa A
+126,06/04/2023,NOTEBOOK,tecnología,25,5,EMPRESA A
+127,,TECLADO,accesorios,1100,5,EMPRESA A
+128,13/06/2023,Monitor,TECNOLOGIA,1200,5,Cliente B 
+129,24/04/2023,mouse,,45,,Cliente B 
+130,2023-08-05,TECLADO,Accesorios,1250usd,2,Empresa D
+131,,mouse,Tecnologia,45,3,Empresa A
+132,,Monitor,TECNOLOGIA,1100,2,cliente c
+133,,mouse,,1300,,empresa a
+134,21/07/2023,Notebook,accesorios,,,EMPRESA A
+135,17/03/2023,TECLADO,tecnología,1100,2,cliente c
+136,12/02/2023,Monitor,TECNOLOGIA,,1,
+137,2023-02-06,TECLADO,accesorios,,1,Empresa D
+138,2023-03-09,Monitor,TECNOLOGIA,800,2,Empresa D
+139,2023-01-28,Monitor,Tecnologia,25,3,Cliente B
+140,30/07/2023,mouse,,45,1,EMPRESA A
+141,19/03/2023,notebook ,Tecnologia,1100,2,EMPRESA A
+142,,,Accesorios,1300,5,empresa a
+143,15/04/2023,Notebook,,,2,
+144,07/08/2023,notebook ,,,2,cliente c
+145,2023-04-12,notebook ,Accesorios,1250usd,,Cliente B
+146,21/07/2023,Mouse,tecnología,1100,1,Cliente B
+147,2023-07-28,Teclado,tecnología,1200,3,EMPRESA A
+148,2023-05-19,notebook ,,1200,2,Empresa A
+149,2023-07-22,Teclado,Tecnologia,1300,3,Empresa A
+150,,notebook ,,1250usd,5,
